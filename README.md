@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-https://github-readme-stats.vercel.app/api?username=sqirum&show_icons=true&theme=panda
+[![sqirum's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqirum)](https://github.com/sqirum/github-readme-stats)
