@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 [![sqirum's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqirum&count_private=true&show_icons=true&theme=panda)
 ](https://github.com/sqirum/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqirum)](https://github.com/sqirum/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqirum&layout=compact)](https://github.com/sqirum/github-readme-stats)
 
