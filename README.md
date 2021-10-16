@@ -1,22 +1,12 @@
 <div style="background:red;">
-<h2>Hello my name's Paulo Henriques and I'm a Frontend Developer</h2>
+  <h2>Hello my name's Paulo Henriques</h2>
+
+   <p>Currently I'm working as a frontend developer and learning everyday</p>
 
 
 
-
-<a href="https://github.com/sqirum">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sqirum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="text-decoration:none;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqirum&layout=compact&langs_count=7&theme=dracula" style="text-decoration:none;">
-</a>
+  <a href="https://github.com/sqirum">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sqirum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="text-decoration:none;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqirum&layout=compact&langs_count=7&theme=dracula" style="text-decoration:none;">
+  </a>
 </div>
-
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
