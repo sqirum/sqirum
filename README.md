@@ -39,6 +39,6 @@
 
 <h3 align="center">Social</h3>
                                                                                                                                                 
-<a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+<a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="7%" border="1px" />
 </a>
   
