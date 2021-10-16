@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/sqirum">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sqirum&count_private=true&show_icons=true&theme=panda">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqirum&layout=compact">
 </a>
 
 <!--
