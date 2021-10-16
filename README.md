@@ -1,6 +1,6 @@
-<div style="background:#888;">
+<div style="background:#888888;">
 <h2>Hello my name's Paulo Henriques and I'm a Frontend Developer</h2>
-Here are some ideas to get you started:
+
 
 
 
@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 </a>
 </div>
 
+
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
