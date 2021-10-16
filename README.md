@@ -1,4 +1,4 @@
-<div style="background:red;">
+<div background="red">
   <h2>Hello my name's Paulo Henriques</h2>
 
    <p>Currently I'm working as a frontend developer and learning everyday.</p>
@@ -13,7 +13,7 @@
 
 
 
-<h4 align="center" style="text-align:center;margin:10px 0;">:toolbox::toolbox:Toolbox:toolbox::toolbox:</h4>
+<h4 align="center">:toolbox::toolbox:Toolbox:toolbox::toolbox:</h4>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="7%" style="display:inline-block;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="7%" style="display:inline-block;"/>
