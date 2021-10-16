@@ -12,7 +12,6 @@
 </div>
 <br>
 <br>
-<br>
 <h3 align="center">:toolbox::toolbox:Toolbox:toolbox::toolbox:</h3>
 <br>
 <div align="center">
@@ -36,7 +35,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="7%" style="display:inline-block;" align="center"/>
 
 </div>
-<br>
 <br>
 <br>
 <h3 align="center">:boom::boom:Social:boom::boom:</h3>
