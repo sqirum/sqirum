@@ -41,7 +41,7 @@
                                                                                                                                                 
 <a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px" />
 </a>
-<a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174883.png" width="50px" />
+<a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174866.png" width="50px" />
 </a>
 <!-- Icons from:
 https://www.flaticon.com/br/packs/social-media-logos-2
