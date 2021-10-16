@@ -10,9 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqirum&layout=compact&langs_count=7&theme=dracula" style="text-decoration:none;">
   </a>
 </div>
-
-
-
+<br>
+<br>
+<br>
 <h3 align="center">:toolbox::toolbox:Toolbox:toolbox::toolbox:</h3>
 <br>
 <div align="center">
@@ -36,7 +36,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="7%" style="display:inline-block;" align="center"/>
 
 </div>
-
+<br>
+<br>
+<br>
 <h3 align="center">:boom::boom:Social:boom::boom:</h3>
 <div align="center">                                                                                                                                                
 <a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px" align="center" /></a>
