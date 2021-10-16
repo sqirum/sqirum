@@ -13,7 +13,7 @@
 
 
 
-<h4>:toolbox::toolbox:Toolbox:toolbox::toolbox:</h4>
+<h4 style="text-align:center;margin:10px 0;">:toolbox::toolbox:Toolbox:toolbox::toolbox:</h4>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="7%" style="display:inline-block;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="7%" style="display:inline-block;"/>
@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="7%" style="display:inline-block;"/>
 </div>
 
-<div>
+<div style="margin:10px 0;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="7%" style="display:inline-block;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="7%" style="display:inline-block;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="7%" style="display:inline-block;"/>
