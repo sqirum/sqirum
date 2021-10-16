@@ -39,7 +39,7 @@
 
 <h3 align="center">Social</h3>
                                                                                                                                                 
-<a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-256.png" width="50px" />
+<a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px" />
 </a>
 <a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/youtube_circle_color-256.png" width="50px" />
 </a>
