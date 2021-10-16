@@ -10,8 +10,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqirum&layout=compact&langs_count=7&theme=dracula" style="text-decoration:none;">
   </a>
 </div>
+
 <br>
 <br>
+
 <h3 align="center">:toolbox::toolbox:Toolbox:toolbox::toolbox:</h3>
 <br>
 <div align="center">
@@ -20,7 +22,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="7%" style="display:inline-block;" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="7%" style="display:inline-block;" align="center"/>
 </div>
+
 <br>
+
 <div align="center"">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="7%" style="display:inline-block;" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="7%" style="display:inline-block;" align="center"/>
@@ -33,11 +37,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="7%" style="display:inline-block;" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="7%" style="display:inline-block;" align="center"/>                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="7%" style="display:inline-block;" align="center" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="7%" style="display:inline-block;" align="center"/>
-
 </div>
+                                                                                                                                                
 <br>
 <br>
+                                                                                                                                                
 <h3 align="center">:boom::boom:Social:boom::boom:</h3>
+                  
+<br>
+                  
 <div align="center">                                                                                                                                                
 <a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px" align="center" /></a>
 <a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174866.png" width="50px" align="center" /></a>
