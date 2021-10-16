@@ -1,4 +1,4 @@
-<div background="red">
+<div bgcolor="red">
   <h2>Hello my name's Paulo Henriques</h2>
 
    <p>Currently I'm working as a frontend developer and learning everyday.</p>
