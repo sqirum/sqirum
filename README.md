@@ -1,4 +1,4 @@
-<div style="background:#888888;">
+<div style="background:red;">
 <h2>Hello my name's Paulo Henriques and I'm a Frontend Developer</h2>
 
 
