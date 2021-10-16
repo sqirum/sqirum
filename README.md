@@ -32,7 +32,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="7%" style="display:inline-block;" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="7%" style="display:inline-block;" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="7%" style="display:inline-block;" align="center"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="7%" style="display:inline-block;" align="center"/>                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="7%" style="display:inline-block;" align="center" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="7%" style="display:inline-block;" align="center"/>                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="7%" style="display:inline-block;" align="center" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="7%" style="display:inline-block;" align="center"/>
+
 </div>
 
 <a href="https://www.linkedin.com/in/paulo-lucas-henriques/"></a>
