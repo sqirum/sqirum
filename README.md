@@ -39,12 +39,9 @@
 
 <h3 align="center">Social</h3>
                                                                                                                                                 
-<a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px" />
-</a>
-<a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174866.png" width="50px" />
-</a>
-<a href="https://github.com/sqirum" target="_blank"><img src="https://cdn-icons.flaticon.com/png/128/3291/premium/3291695.png?token=exp=1634414388~hmac=ecea50a10afe4108dfcf0c48f575cbdc" width="50px" />
-</a>
+<a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="50px" align="center" /></a>
+<a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174866.png" width="50px" align="center" /></a>
+<a href="https://github.com/sqirum" target="_blank"><img src="https://cdn-icons.flaticon.com/png/128/3291/premium/3291695.png?token=exp=1634414388~hmac=ecea50a10afe4108dfcf0c48f575cbdc" width="50px" align="center" /></a>
 <!-- Icons from:
 https://www.flaticon.com/br/packs/social-media-logos-2
 -->
