@@ -43,9 +43,7 @@
 <br>
                                                                                                                                                 
 <h4 align="center">:boom::boom:Social:boom::boom:</h4>
-                  
-<br>
-                  
+                                
 <div align="center">                                                                                                                                                
 <a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="30px" align="center" /></a>
 <a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174866.png" width="30px" align="center" /></a>
