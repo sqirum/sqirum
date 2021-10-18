@@ -40,7 +40,7 @@
 </div>
                                                                                                                                                 
 <br>
-<br>
+<b>
                                                                                                                                                 
 <h4 align="center">:boom::boom:Social:boom::boom:</h4>
                                 
