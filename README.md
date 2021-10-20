@@ -4,7 +4,6 @@
    <p>Currently I'm working as a frontend developer and learning everyday.</p>
 
 
-
   <a href="https://github.com/sqirum" style="text-decoration:none;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sqirum&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sqirum&layout=compact&langs_count=7&theme=dracula">
@@ -13,7 +12,6 @@
 
 <br>
 <br>
-
 
 <h3 align="center">:toolbox::toolbox:Toolbox:toolbox::toolbox:</h3>
 <br>
