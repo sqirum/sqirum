@@ -50,6 +50,6 @@
 <a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" width="30px" align="center" /></a>
 <a href="#" target="_blank"><img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536424.png?token=exp=1634472796~hmac=35420bff5948bda088ec33792cbb748f" width="30px" align="center" /></a>
 </div>
-<!-- Icons from:
+<!-- Icons from: 
 https://www.flaticon.com/br/packs/social-media-logos-2
 -->
