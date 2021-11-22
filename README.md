@@ -28,7 +28,6 @@
 <br>
 
 
-
 <div align="center"">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="7%" style="display:inline-block;" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="7%" style="display:inline-block;" align="center"/>
