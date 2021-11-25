@@ -38,6 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="7%" style="display:inline-block;" align="center"/>                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="7%" style="display:inline-block;" align="center" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" width="7%" style="display:inline-block;" align="center"/>
 </div>
+      
                                                                                                                                                 
 <br>
 <br>
