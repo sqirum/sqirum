@@ -1,7 +1,8 @@
 <div>
   <h2>Hello my name's Paulo Henriques</h2>
 
-   <p>Currently I'm working as a frontend developer and learning everyday.</p>
+   <p>Currently I'm doing my Computer Engineering degree, working as a fullstack developer and learning everyday.</p>
+   <p>Feel free to contact me.</p>
 
   
   <a href="https://github.com/sqirum" style="text-decoration:none;">
@@ -47,7 +48,7 @@
                                 
 <div align="center">                                                                                                                                                
 <a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="30px" align="center" /></a>
-<a href="https://github.com/sqirum" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1635202538~hmac=847826d98bc86bf50c14f4b41df6d102" width="30px" align="center" /></a>
+<a href="https://github.com/sqirum" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/733/733609" width="30px" align="center" /></a>
 </div>
 <!-- Icons from: 
 https://www.flaticon.com/br/packs/social-media-logos-2
