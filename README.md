@@ -48,7 +48,7 @@
                                 
 <div align="center">                                                                                                                                                
 <a href="https://www.linkedin.com/in/paulo-lucas-henriques/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/174/174857.png" width="30px" align="center" /></a>
-<a href="https://github.com/sqirum" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/733/733609" width="30px" align="center" /></a>
+<a href="https://github.com/sqirum" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" align="center" /></a>
 </div>
 <!-- Icons from: 
 https://www.flaticon.com/br/packs/social-media-logos-2
